@@ -8,7 +8,7 @@ const NEZHA_PORT = process.env.NEZHA_PORT || '';                     // 哪吒�
 const NEZHA_KEY = process.env.NEZHA_KEY || '';
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'shgmr.goko-gm.com';     // 建议使用token，argo端口8080，cf后台设置需对应,使用json需上传json和yml文件至files目录
 const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiZDQ0NDUwZGU3Y2QyODZkYWY0YjdjY2EwNjIyMmI4ZTQiLCJ0IjoiNThiZThmZTktYjE0ZC00N2RkLWEzMzUtYzdmNTk0MmVhMjcxIiwicyI6IllUTmhaVEkxWlRBdE1EZzRNeTAwTVRjeUxXRTNZelV0WWpReU5UTmpORE0yT0RWaiJ9';
-const CFIP = process.env.CFIP || 'ssk.moe';
+const CFIP = process.env.CFIP || 'ip.sb';
 const NAME = process.env.NAME || 'Choreo';
 
 // root route
